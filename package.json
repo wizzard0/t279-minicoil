@@ -1,8 +1,9 @@
 {
   "name": "minicoil",
-  "version": "0.1227.0",
+  "version": "0.1227.2",
   "description": "minicoil",
-  "main": "index.js",
+  "main": "minicoil.js",
+  "types": "minicoil.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
